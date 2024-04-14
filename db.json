@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "name": "sản phẩm 2 update3",
+      "price": 12567,
+      "image": "https://picsum.photos/200/300",
+      "desc": "egrhgjk.",
+      "id": 2
+    },
+    {
+      "name": "Zinop1512",
+      "price": 300000,
+      "image": "https://picsum.photos/200/300",
+      "desc": "efsdgbnh",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "huyt20600@gmail.com",
+      "password": "$2a$10$ouABd65X3J.DJ0zhJakSyOrOQVs6restp84Un8ARu9w7iO3vxm7Ce",
+      "confirmPassword": "123456",
+      "id": 1
+    }
+  ]
+}
